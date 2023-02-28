@@ -1,0 +1,26 @@
+<svg class="background">
+  <rect id="battery_base_1" x="10" y="10" width="31" height="18" fill="#303030"/>
+  <rect id="battery_base_2" x="41" y="15" width="4" height="8" fill="#303030"/>
+  <rect id="battery_1" x="13" y="13" width="4" height="12" fill="#a0a0a0"/>
+  <rect id="battery_2" x="20" y="13" width="4" height="12" fill="#a0a0a0"/>
+  <rect id="battery_3" x="27" y="13" width="4" height="12" fill="#a0a0a0"/>
+  <rect id="battery_4" x="34" y="13" width="4" height="12" fill="#a0a0a0"/>
+  <text id="label_battery" x="10" y="47"/>
+  <rect class="item" fill="fb-green" />
+  <text id="notification" x="270" y="40">Nothing new</text>
+  <text id="weather_location" x="222" y="61"/>
+  <text id="weather_temp" x="222" y="38"/>
+  <image id="weather_icon" href="" x="228" y="4"/>
+  <text id="label_time" x="230" y="152"/>
+  <text id="label_seconds" x="230" y="152"/>
+  <text id="label_ampm" x="286" y="110"/>
+  <text id="label_date" x="50%" y="186"/>
+  <text id="label_exercise" class="label_activity" x="50" y="250" fill="#ffffff">Exercise</text>
+  <text id="label_nap" class="label_activity" x="150" y="250" fill="#ffffff">Nap</text>
+  <text id="label_light" class="label_activity" x="250" y="250" fill="#ffffff">Light</text>
+  <circle id="progress_exercise" cx="50" cy="272" r="10" fill="fb-white"/>
+  <circle id="progress_nap" cx="150" cy="272" r="10" fill="fb-white"/>
+  <circle id="progress_light" cx="250" cy="272" r="10" fill="fb-white"/>
+  <rect class="line" x="0" y="76" width="100%" height="3" fill="#642a17"/>
+  <rect class="line" x="0" y="198" width="100%" height="3" fill="#642a17"/>
+</svg>
