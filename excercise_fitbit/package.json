@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~4.3.0"
+  },
+  "fitbit": {
+    "appUUID": "dcedd819-82ee-416e-aab8-1467380d75aa",
+    "appType": "app",
+    "appDisplayName": "Exercise",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#8bc34a",
+    "requestedPermissions": [
+      "access_heart_rate",
+      "access_internet",
+      "access_exercise",
+      "run_background"
+    ],
+    "buildTargets": [
+      "mira"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "Exercise"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}

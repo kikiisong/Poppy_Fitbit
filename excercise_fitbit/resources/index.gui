@@ -1,0 +1,38 @@
+<svg>
+  <use id="sessbutton" href="#square-button" y="5" fill="fb-green">
+    <set href="#text" attributeName="text-buffer" to="Start Session" />
+  </use>
+  <use id="tutbutton" href="#square-button" y="5" fill="fb-green">
+    <set href="#text" attributeName="text-buffer" to="Start Tutorial" />
+  </use>
+   <use id="pausebutton" href="#square-button" y="5" fill="fb-green">
+    <set href="#text" attributeName="text-buffer" to="Pause Tutorial" />
+  </use>
+  <use id="startbutton" href="#square-button" y="$" fill="fb-red">
+    <set href="#text" attributeName="text-buffer" to="Start Recording" />
+  </use>
+  <svg id="hr">
+  <text id="hrtitle" x="50%" y="65%"
+      fill="white" font-size="35" font-family="System-Regular"
+      text-anchor="middle" text-length="20">Current Heartrate:
+  </text>
+  <text id="myhr" x="50%" y="85%"
+      fill="white" font-size="35" font-family="System-Regular"
+      text-anchor="middle" text-length="20">Waiting to Start
+  </text>
+  </svg>
+   <svg id="btwarning">
+    <textarea x="25" y="30" width="95%"
+    font-family="System-Regular" fill="white" font-size="32">Please make sure that Fitbit is connected to your phone via Bluetooth.</textarea>
+     <use id="btretrybutton" href="#square-button" y="60%" fill="fb-white">
+    <set href="#text" attributeName="text-buffer" to="Retry" />
+  </use>
+  </svg>
+   <svg id="intwarning">
+    <textarea x="25" y="30" width="95%"
+    font-family="System-Regular" fill="white" font-size="32">Connecting... Please make sure your phone has internet.</textarea>
+     <use id="retrybutton" href="#square-button" y="50%" fill="fb-white">
+    <set href="#text" attributeName="text-buffer" to="Retry" />
+  </use>
+  </svg>
+ </svg>
