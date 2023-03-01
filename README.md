@@ -34,8 +34,12 @@ It can:
 - Send time information to a server.
 - Send activity status (Done = true) to a server.
 
+<img src="pictures/nap1.PNG" width="300" />
+<img src="pictures/nap2.PNG" width="300" />
+
 ## Clockface
 Thanks to [mxxshao's repo](https://github.com/mxsshao/versa-clockface) for the template.
+
 It can:
 - Read activiy status from a server regularly.
 - Remind user of an activity with text and vibration.
