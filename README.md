@@ -11,7 +11,7 @@ Fitbit Device: Versa 2
 Fitbit SDK Version: 4.2
 
 ## Firebase Server
-A intermediate server is needed to facilitate the communication between Fitbit and the robot system.  
+A intermediate server/database is needed to facilitate the communication between Fitbit and the robot system.  
 1. [Set up and deploy a firebase server.](https://firebase.google.com/docs/hosting/quickstart)
 2. Use npm to install express and other JavaScript packages.
 
