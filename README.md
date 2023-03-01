@@ -22,11 +22,11 @@ There are 4 projects: exercise, light therapy, nap, and clockface.
 
 ## Exercise App
 It can:
-- Send commands to a server if a button is clicked
-- Send heartrate to a server
+- Send commands to a server if a button is clicked. This is for remote control.
+- Send heartrate to a server.
 
 ## Nap App or Light Therapy App
 It can:
-- Set a timer with silent alarm
-- Send time information to a server
-- Send action status (Done = true) to a server
+- Set a timer with silent alarm.
+- Send time information to a server.
+- Send action status (Done = true) to a server.
