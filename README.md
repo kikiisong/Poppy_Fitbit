@@ -35,6 +35,8 @@ It can:
 - Send activity status (Done = true) to a server.
 
 ## Clockface
+Thanks to [mxxshao's repo](https://github.com/mxsshao/versa-clockface) for the template.
 It can:
 - Read activiy status from a server regularly.
 - Remind user of an activity with text and vibration.
+[!clockface](clockface1.png)
