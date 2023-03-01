@@ -1,7 +1,10 @@
 # Poppy_Fitbit
 
 ## Overview
-A Fitbit (smartwatch) application as a part of an assistive robotic system, which communicates biometric data to the robot and allows remote control of the system, for studying the effect of robot intervention on the sleep health of older adults.
+A Fitbit (smartwatch) application as a part of an assistive robotic system, which:
+1. measures and communicates biometric data to the robot
+2. allows remote control of the system
+3. monitors activity progress and sends reminder to the user.
 
 Fitbit Device: Versa 2
 
@@ -29,4 +32,9 @@ It can:
 It can:
 - Set a timer with silent alarm.
 - Send time information to a server.
-- Send action status (Done = true) to a server.
+- Send activity status (Done = true) to a server.
+
+## Clockface
+It can:
+- Read activiy status from a server regularly.
+- Remind user of an activity with text and vibration.
