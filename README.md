@@ -11,6 +11,7 @@ Fitbit SDK Version: 4.2
 A intermediate server is needed to facilitate the communication between Fitbit and the robot system.  
 1. [Set up and deploy a firebase server.](https://firebase.google.com/docs/hosting/quickstart)
 2. Use npm to install express and other JavaScript packages.
+
 You can use firebase/index.js as a reference.
 
 ## How to Run Each Fitbit App/Clockface
@@ -19,3 +20,13 @@ There are 4 projects: exercise, light therapy, nap, and clockface.
 2. Copy/upload all the folders and files into the project. 
 3. Run from the studio.
 
+## Exercise App
+It can:
+- Send commands to a server if a button is clicked
+- Send heartrate to a server
+
+## Nap App or Light Therapy App
+It can:
+- Set a timer with silent alarm
+- Send time information to a server
+- Send action status (Done = true) to a server
