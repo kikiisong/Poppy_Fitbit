@@ -40,4 +40,4 @@ It can:
 - Read activiy status from a server regularly.
 - Remind user of an activity with text and vibration.
 
-<img src="pictures/clockface1.PNG" width="200" />
+<img src="pictures/clockface1.PNG" width="400" />
