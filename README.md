@@ -39,4 +39,5 @@ Thanks to [mxxshao's repo](https://github.com/mxsshao/versa-clockface) for the t
 It can:
 - Read activiy status from a server regularly.
 - Remind user of an activity with text and vibration.
-[!clockface](clockface1.png)
+
+![clockface](clockface1.png)
