@@ -45,8 +45,8 @@ It can:
 - Send feedback to a server.
 
 <img src="pictures/nap1.PNG" width="300" />
-<img src="pictures/nap2.PNG" width="300" />
 <img src="pictures/internet1.PNG" width="300" />
+<img src="pictures/nap2.PNG" width="300" />
 
 ## Clockface
 Thanks to [mxxshao's repo](https://github.com/mxsshao/versa-clockface) for the template.
