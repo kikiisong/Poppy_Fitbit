@@ -1,7 +1,7 @@
 # Poppy_Fitbit
 
 ## Overview
-A Fitbit (smartwatch) application as a part of an assistive robotic system, which:
+Fitbit (smartwatch) applications as a part of an assistive robotic system, which:
 1. measures and communicates biometric data to the robot
 2. allows remote control of the system
 3. monitors activity progress and sends reminder to the user.
