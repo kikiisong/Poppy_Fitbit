@@ -27,8 +27,8 @@ There are 4 projects: exercise, light therapy, nap, and clockface.
    "devDependencies": {
     "@fitbit/sdk": "~4.3.0",
     "@fitbit/sdk-cli": "^1.7.3"
-  }
-  ```
+   }
+   ```
 4. Pull up the terminal in VS Code (View > Terminal).
 5. Make sure that your Fitbit and your companion app both have developer mode on. In the terminal
    ```
