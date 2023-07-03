@@ -23,7 +23,7 @@ Make sure that you have Node.js v14 installed.
 There are 4 projects: exercise, light therapy, nap, and clockface.
 1. Open each project folder in Visual Studio Code.
 2. Pull up the terminal in VS Code (View > Terminal).
-3. Make sure that your Fitbit and you App both have developer mode on. In the terminal
+3. Make sure that your Fitbit and your companion app both have developer mode on. In the terminal
    ```
    npm install
    npx fitbit
