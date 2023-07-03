@@ -12,16 +12,24 @@ Fitbit SDK Version: 4.2
 
 ## Firebase Server
 A intermediate server/database is needed to facilitate the communication between Fitbit and the robot system.  
-1. [Set up and deploy a firebase server.](https://firebase.google.com/docs/hosting/quickstart)
+1. Set up and deploy a firebase server with database and functions.
 2. Use npm to install express and other JavaScript packages.
 
 You can use firebase/index.js as a reference.
 
 ## How to Run Each Fitbit App/Clockface
+Make sure that you have Node.js v14 installed.
+
 There are 4 projects: exercise, light therapy, nap, and clockface.
-1. Create an empty project in [Fitbit Studio](https://studio.fitbit.com).
-2. Copy/upload all the folders and files into the project. 
-3. Run from the studio.
+1. Open each project folder in Visual Studio Code.
+2. Pull up the terminal in VS Code (View > Terminal).
+3. Make sure that your Fitbit and you App both have developer mode on. In the terminal
+   ```
+   npm install
+   npx fitbit
+   fitbit$ install
+   fitbit$ build
+   ```
 
 Make sure your Fitbit is connected to the phone app via bluetooth.
 
