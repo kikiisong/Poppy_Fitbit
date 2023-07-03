@@ -29,6 +29,7 @@ There are 4 projects: exercise, light therapy, nap, and clockface.
     "@fitbit/sdk-cli": "^1.7.3"
    }
    ```
+3. Replace the server address in index.js in the companion folder.
 4. Pull up the terminal in VS Code (View > Terminal).
 5. Make sure that your Fitbit and your companion app both have developer mode on. In the terminal
    ```
